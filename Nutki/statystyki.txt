@@ -1,0 +1,180 @@
+﻿Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:28:40
+Całkowity czas gry:  0 s
+Całkowity czas dmuchu : 0,000 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:28:43
+Całkowity czas gry:  2 s
+Całkowity czas dmuchu : 0,244 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:33:21
+Całkowity czas gry:  0 s
+Całkowity czas dmuchu : 0,000 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:33:26
+Całkowity czas gry:  4 s
+Całkowity czas dmuchu : 0,246 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:35:34
+Całkowity czas gry:  22 s
+Całkowity czas dmuchu : 0,000 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:35:43
+Całkowity czas gry:  31 s
+Całkowity czas dmuchu : 0,163 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:36:55
+Całkowity czas gry:  24 s
+Całkowity czas dmuchu : 1,307 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:36:58
+Całkowity czas gry:  26 s
+Całkowity czas dmuchu : 1,469 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:39:03
+Całkowity czas gry:  23 s
+Całkowity czas dmuchu : 0,082 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:39:07
+Całkowity czas gry:  3 s
+Całkowity czas dmuchu : 0,164 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:42:57
+Całkowity czas gry:  21 s
+Całkowity czas dmuchu : 0,000 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 5
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:43:00
+Całkowity czas gry:  2 s
+Całkowity czas dmuchu : 0,081 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 0
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:44:50
+Całkowity czas gry:  46 s
+Całkowity czas dmuchu : 14,119 s
+Ilość nutek przeprowadzonych: 3
+Ilość nutek utopionych: 0
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:44:53
+Całkowity czas gry:  3 s
+Całkowity czas dmuchu : 0,163 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 0
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:58:04
+Całkowity czas gry:  34 s
+Całkowity czas dmuchu : 3,460 s
+Ilość nutek przeprowadzonych: 1
+Ilość nutek utopionych: 1
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:58:52
+Całkowity czas gry:  54 s
+Całkowity czas dmuchu : 4,090 s
+Ilość nutek przeprowadzonych: 2
+Ilość nutek utopionych: 3
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 14:59:59
+Całkowity czas gry:  45 s
+Całkowity czas dmuchu : 11,401 s
+Ilość nutek przeprowadzonych: 4
+Ilość nutek utopionych: 7
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 15:00:59
+Całkowity czas gry:  67 s
+Całkowity czas dmuchu : 13,919 s
+Ilość nutek przeprowadzonych: 3
+Ilość nutek utopionych: 4
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 15:04:14
+Całkowity czas gry:  75 s
+Całkowity czas dmuchu : 11,742 s
+Ilość nutek przeprowadzonych: 3
+Ilość nutek utopionych: 9
+
+---------------------------------------------------------------------------------------------------------------
+
+Gracz: Gracz
+Data i czas rozgrywki: 2015/12/30 15:21:25
+Całkowity czas gry:  2 s
+Całkowity czas dmuchu : 0,166 s
+Ilość nutek przeprowadzonych: 0
+Ilość nutek utopionych: 0
+
+---------------------------------------------------------------------------------------------------------------
+
